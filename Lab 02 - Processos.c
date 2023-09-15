@@ -29,7 +29,8 @@ int main() {
     auto start = high_resolution_clock::now();
 
     pid_t pid = fork();
-
+    // Processos
+    
     if (pid == 0) { // Processo filho
         unsigned long long resultado = calcularFatorial(n);
         cout << "Fatorial de " << n << " é " << resultado << endl;
