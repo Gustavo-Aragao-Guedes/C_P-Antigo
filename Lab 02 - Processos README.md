@@ -10,6 +10,7 @@ Tempo de execução em multiprocessos: 436 microssegundos
 
 
 
+
 Fatorial de exemplo: 8 = 40320
 
 Tempo de execução em serial: 4379 microssegundos
