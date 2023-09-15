@@ -5,8 +5,7 @@ Professor, na questão de calcular o tempo do programa foi utilizada a bibliotec
 
 Fatorial de exemplo: 3 = 6
 
-Tempo de execução em serial: 1056 microssegundos,
-Tempo de execução em multiprocessos: 436 microssegundos
+Tempo de execução em serial: 1056 microssegundos Tempo de execução em multiprocessos: 436 microssegundos
 
 
 
