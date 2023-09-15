@@ -1,7 +1,7 @@
 #include <iostream>
 #include <unistd.h>
 #include <sys/wait.h>
-#include <chrono> // A biblioteca chrono será usada para calcular o tempo
+#include <chrono> // A biblioteca chrono será usada para calcular o tempo ao invés da time
 
 using namespace std;
 using namespace std::chrono;
